@@ -1,2 +1,2 @@
 # utility_scripts
-PowerShell Utility Scripts
+Set of PowerShell Scripts which can help in daily work
